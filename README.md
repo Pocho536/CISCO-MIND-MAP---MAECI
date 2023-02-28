@@ -20,22 +20,18 @@
 
 
 
+![image](https://user-images.githubusercontent.com/125513213/221964770-ae608e5f-6678-4c1b-8313-4e6315c5a8a8.png)
 
 
-
- 
-
-
-
-
- 
 1.1.	Inteligencia Comercial
- es la habilidad de entender, comprender y navegar eficazmente por diversos aspectos de los negocios o en el medio comercial en el que se mueve una empresa, conociendo la gestión financiera, el marketing, las operaciones y la estrategia. realizando así una buena prospectiva del medio, para hacer la empresa más competitiva y tener mejores rendimientos en su campo; Esto implica una profunda comprensión de cómo operan los negocios, la capacidad de analizar información compleja, tomar decisiones sólidas y priorizar acciones que estén alineadas con los objetivos de la organización,  el Business Acumen es esencial para el éxito empresarial, ya que permite a los líderes empresariales tomar decisiones informadas, identificar oportunidades de negocio, gestionar eficazmente los recursos financieros y planificar estratégicamente el futuro de la empresa. 
+Es la habilidad de entender, comprender y navegar eficazmente por diversos aspectos de los negocios o en el medio comercial en el que se mueve una empresa, conociendo la gestión financiera, el marketing, las operaciones y la estrategia. realizando así una buena prospectiva del medio, para hacer la empresa más competitiva y tener mejores rendimientos en su campo; Esto implica una profunda comprensión de cómo operan los negocios, la capacidad de analizar información compleja, tomar decisiones sólidas y priorizar acciones que estén alineadas con los objetivos de la organización,  el Business Acumen es esencial para el éxito empresarial, ya que permite a los líderes empresariales tomar decisiones informadas, identificar oportunidades de negocio, gestionar eficazmente los recursos financieros y planificar estratégicamente el futuro de la empresa. 
 
 ![image](https://user-images.githubusercontent.com/125513213/221929446-ebcf8527-88a9-4e3f-9d03-692b9b2924e9.png)
 
 1.2.	Concepto Acumen
-nos refiere a la habilidad de pensar con claridad los temas y ayudar a tomar las decisiones adecuadas a cada contexto. Es tener desarrollada la percepción, el discernimiento desde una perspectiva de lo práctico, es tener una mirada aguda, ser perspicaz. “Business acumen” es esta capacidad aplicada al desarrollo de los negocios. Ser especialista en comunicación o en asuntos públicos no implica trabajar en una agenda disociada de la de la organización donde se trabaja. Es entender en forma simple cuáles son las cuestiones fundamentales para el desarrollo del negocio, los factores que determinan su rentabilidad o pueden afectarla; es poder aportar desde un enfoque práctico a la sustentabilidad del negocio o a su desarrollo. (Etchebehere, 2019).
+Nos refiere a la habilidad de pensar con claridad los temas y ayudar a tomar las decisiones adecuadas a cada contexto. Es tener desarrollada la percepción, el discernimiento desde una perspectiva de lo práctico, es tener una mirada aguda, ser perspicaz. “Business acumen” es esta capacidad aplicada al desarrollo de los negocios. Ser especialista en comunicación o en asuntos públicos no implica trabajar en una agenda disociada de la de la organización donde se trabaja. Es entender en forma simple cuáles son las cuestiones fundamentales para el desarrollo del negocio, los factores que determinan su rentabilidad o pueden afectarla; es poder aportar desde un enfoque práctico a la sustentabilidad del negocio o a su desarrollo. (Etchebehere, 2019).
+
+![image](https://user-images.githubusercontent.com/125513213/221964495-e4b82a98-ae0e-4fff-9e90-5ce2a9b0d316.png)
 
 1.3.	Importancias del Busines Acumen:
 Teniendo en cuenta lo anterior el Business Acumen es importante por varias razones como son:
@@ -48,45 +44,54 @@ Teniendo en cuenta lo anterior el Business Acumen es importante por varias razon
 
 4.	Planificación estratégica: Las habilidades en Business Acumen también permiten a los líderes empresariales planificar estratégicamente el futuro de la empresa y tomar decisiones informadas sobre cómo alcanzar los objetivos empresariales a largo plazo.
 
-5.	Desarrollo de liderazgo: Los líderes empresariales con fuertes habilidades en Business Acumen pueden inspirar y guiar a sus equipos de manera más efectiva y tomar decisiones que permitan a la empresa crecer y tener éxito en el largo plazo.  
+5.	Desarrollo de liderazgo: Los líderes empresariales con fuertes habilidades en Business Acumen pueden inspirar y guiar a sus equipos de manera más efectiva y tomar decisiones que permitan a la empresa crecer y tener éxito en el largo plazo.
+
 1.4.	Referencias
 •	Facundo Etchebehere
 VP Global Public Affairs at Danone #Advocacy #Sustainability #Governance #BCorp #EnterpriseaMission #CorporateAffairs #ESG
 Fecha de publicación: 14 de Nov de 2019
 •	https://es.linkedin.com/pulse/business-acumen-facundo-etchebehere
-
  
-
- 
-
+![image](https://user-images.githubusercontent.com/125513213/221965212-6642c8b8-5019-4870-9d2f-a2643b9ca10a.png)
 
 
 2.1. Introducción
 Las habilidades de comunicación en el ciberespacio incluyen la capacidad para comunicarse de forma clara y concisa, escuchar con atención, comprender los puntos de vista de los demás, construir una buena reputación en línea, establecer relaciones de confianza con otros usuarios y saber cómo mantener una conversación en línea interesante. También es importante saber cómo usar los medios sociales para mantenerse en contacto con los demás. 
 
- 
+
+![image](https://user-images.githubusercontent.com/125513213/221966155-6509c113-338c-4bb4-9cf2-02343c943c96.png)
+
 
 2.2. Market trends
 Comunicar de manera efectiva nuevas ideas, sentimientos o incluso una actualización de su proyecto son algunas de las habilidades de un buen comunicador. Junto con las habilidades para hablar o escuchar, las habilidades de comunicación sólidas también incluyen:
 
-	Habilidad para absorber, compartir y comprender ideas o información presentada
-	Habilidad para comunicarse a través de palabras escritas o habladas que otros puedan captar
-	Capacidad para comprender las percepciones de los demás.
-	Habilidad para usar conocimientos y habilidades relevantes para explicar y aclarar pensamientos e ideas.
-	Capacidad de escuchar a los demás cuando se comunican para comprender 
+1. Habilidad para absorber, compartir y comprender ideas o información presentada.
+
+2. Habilidad para comunicarse a través de palabras escritas o habladas que otros puedan captar.
+
+3. Capacidad para comprender las percepciones de los demás.
+
+4. Habilidad para usar conocimientos y habilidades relevantes para explicar y aclarar pensamientos e ideas.
+
+5. Capacidad de escuchar a los demás cuando se comunican para comprender. 
+
+![image](https://user-images.githubusercontent.com/125513213/221966263-6778d669-f097-4669-ae97-dbc5dbd6848e.png)
 
 Hay tres componentes clave de una buena presentación:
 
-	Estructura—Introducción, Contenido y Conclusión
-	Lenguaje Corporal y Movimiento
-	 
+1. Estructura—Introducción, Contenido y Conclusión.
 
-En el mismo sentido resulta absolutamente importante analizar la audiencia;
+2. Lenguaje Corporal y Movimiento.
 
-	Valores… ¿Qué es importante para ellos?
-	Necesidades… ¿Qué información quieren?
-	Restricciones... Comprender su nivel de conocimiento sobre el tema y orientarlos adecuadamente.
-	Datos demográficos... El tamaño de la audiencia y la ubicación pueden influir en la presentación. Por ejemplo, un gran auditorio puede ser más formal y menos personal que una presentación a su equipo o compañeros de laboratorio en un entorno menos formal.
+3. En el mismo sentido resulta absolutamente importante analizar la audiencia;
+
+a. Valores… ¿Qué es importante para ellos?
+
+b. Necesidades… ¿Qué información quieren?
+
+c. Restricciones... Comprender su nivel de conocimiento sobre el tema y orientarlos adecuadamente.
+
+d. Datos demográficos... El tamaño de la audiencia y la ubicación pueden influir en la presentación. Por ejemplo, un gran auditorio puede ser más formal y menos personal que una presentación a su equipo o compañeros de laboratorio en un entorno menos formal.
 
  
 
