@@ -52,7 +52,7 @@ VP Global Public Affairs at Danone #Advocacy #Sustainability #Governance #BCorp 
 Fecha de publicación: 14 de Nov de 2019
 •	https://es.linkedin.com/pulse/business-acumen-facundo-etchebehere
  
-![image](https://user-images.githubusercontent.com/125513213/221965212-6642c8b8-5019-4870-9d2f-a2643b9ca10a.png)
+![image](https://user-images.githubusercontent.com/125513213/221966982-86e11f24-21c2-4b08-9034-a84d4ff0a6f8.png)
 
 
 2.1. Introducción
@@ -75,28 +75,41 @@ Comunicar de manera efectiva nuevas ideas, sentimientos o incluso una actualizac
 
 5. Capacidad de escuchar a los demás cuando se comunican para comprender. 
 
-![image](https://user-images.githubusercontent.com/125513213/221966263-6778d669-f097-4669-ae97-dbc5dbd6848e.png)
+2.3. Referencias
+
+•	https://digiaide.com/communication-skills/
+
+![image](https://user-images.githubusercontent.com/125513213/221967186-b516b90a-ac9f-4c31-a14a-37d40761eba2.png)
+
+3.1 Presentation Skills
+
+Son habilidades para presentar y comunicar información de una manera clara, concisa y convincente. Esto incluye la capacidad de organizar y transmitir información, la habilidad de hablar en público, así como la capacidad de usar herramientas de presentación para enfatizar los puntos clave.
+
+![image](https://user-images.githubusercontent.com/125513213/221968860-65f90262-57e0-4be3-8508-e3fddfe0db47.png)
+
+La mayoría de las organizaciones enumeran las habilidades de comunicación como uno de sus problemas más críticos, y las habilidades de presentación son un componente importante de las comunicaciones. Las habilidades de presentación son cruciales para casi todos los aspectos de la vida académica/empresarial, desde reuniones, entrevistas y conferencias hasta ferias comerciales y ferias de trabajo. Muchas veces, las habilidades de liderazgo y presentación van de la mano. (Encuesta NACE 201): la capacidad para comunicarse verbalmente (interna y externamente) se ubicó en 4,63/5,0 y fue la habilidad número 1 que buscan los empleadores.
+
+3.2 Componentes Presntation Skills
 
 Hay tres componentes clave de una buena presentación:
 
-1. Estructura—Introducción, Contenido y Conclusión.
+a. Estructura—Introducción, Contenido y Conclusión
+b. Lenguaje Corporal y Movimiento
+c. Entrega Verbal
 
-2. Lenguaje Corporal y Movimiento.
+En el mismo sentido resulta absolutamente importante analizar la audiencia;
 
-3. En el mismo sentido resulta absolutamente importante analizar la audiencia;
+1. Valores… ¿Qué es importante para ellos?
+2. Necesidades… ¿Qué información quieren?
+3. Restricciones... Comprender su nivel de conocimiento sobre el tema y orientarlos adecuadamente.
+4. Datos demográficos... El tamaño de la audiencia y la ubicación pueden influir en la presentación. Por ejemplo, un gran auditorio puede ser más formal y    menos personal que una presentación a su equipo o compañeros de laboratorio en un entorno menos formal.
 
-a. Valores… ¿Qué es importante para ellos?
+![image](https://user-images.githubusercontent.com/125513213/221968901-69e595d0-3f2b-4e15-b82d-740d68d457c5.png)
 
-b. Necesidades… ¿Qué información quieren?
+3.3 Referencias:
 
-c. Restricciones... Comprender su nivel de conocimiento sobre el tema y orientarlos adecuadamente.
+·https://academic.oup.com/femsle/article/364/24/fnx235/4587905?login=false![image](https://user-images.githubusercontent.com/125513213/221968975-445c6e05-cf75-43a7-973a-69d570b77173.png)
 
-d. Datos demográficos... El tamaño de la audiencia y la ubicación pueden influir en la presentación. Por ejemplo, un gran auditorio puede ser más formal y menos personal que una presentación a su equipo o compañeros de laboratorio en un entorno menos formal.
 
- 
 
-2.1. Referencias
-
-•	https://academic.oup.com/femsle/article/364/24/fnx235/4587905?login=false
-•	https://digiaide.com/communication-skills/
 
