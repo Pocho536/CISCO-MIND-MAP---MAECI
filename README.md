@@ -193,17 +193,17 @@ Para fomentar una cultura digital responsable, es importante educar a las person
 
 ![image](https://user-images.githubusercontent.com/125513213/221979741-faa2a085-bf1a-435b-b7ea-36d0b1c59b7d.png)
 
-Las habilidades de liderazgo son cruciales en el ciberespacio y en cualquier entorno empresarial. A continuación se presentan las conclusiones clave sobre cinco puntos importantes en el liderazgo en línea:
+Las habilidades de liderazgo son cruciales en el ciberespacio y en cualquier entorno empresarial. A continuación se presentan las conclusiones clave sobre cinco puntos importantes en el liderazgo en general y en el ciberespacio:
 
-Business Acumens: Los líderes exitosos en línea deben poseer un conocimiento sólido y actualizado de la industria en la que trabajan. Esto incluye una comprensión profunda de los clientes, la competencia, las tendencias del mercado y las oportunidades de crecimiento. También deben tener habilidades financieras para administrar presupuestos y recursos de manera efectiva.
+a. Business Acumens: Los líderes exitosos en línea deben poseer un conocimiento sólido y actualizado de la industria en la que trabajan. Esto incluye una comprensión profunda de los clientes, la competencia, las tendencias del mercado y las oportunidades de crecimiento. También deben tener habilidades financieras para administrar presupuestos y recursos de manera efectiva.
 
-Comunication Skills: La comunicación efectiva es fundamental en el liderazgo en línea. Los líderes deben ser capaces de comunicarse clara y concisamente con su equipo, clientes y otros stakeholders. Esto incluye habilidades de escritura efectiva, habilidades de presentación y la capacidad de escuchar activamente y responder adecuadamente.
+b. Comunication Skills: La comunicación efectiva es fundamental en el liderazgo en línea. Los líderes deben ser capaces de comunicarse clara y concisamente con su equipo, clientes y otros stakeholders. Esto incluye habilidades de escritura efectiva, habilidades de presentación y la capacidad de escuchar activamente y responder adecuadamente.
 
-Presentation Skills: Los líderes en línea deben ser capaces de presentar sus ideas y estrategias de manera clara y persuasiva. Esto incluye la capacidad de crear presentaciones atractivas y bien estructuradas, y de entregarlas de manera efectiva en línea. Los líderes deben ser capaces de presentar sus ideas de manera convincente y de responder preguntas y preocupaciones de manera satisfactoria.
+c. Presentation Skills: Los líderes en línea deben ser capaces de presentar sus ideas y estrategias de manera clara y persuasiva. Esto incluye la capacidad de crear presentaciones atractivas y bien estructuradas, y de entregarlas de manera efectiva en línea. Los líderes deben ser capaces de presentar sus ideas de manera convincente y de responder preguntas y preocupaciones de manera satisfactoria.
 
-Stakeholders Management: Los líderes en línea deben ser capaces de gestionar múltiples stakeholders, incluyendo a sus empleados, clientes, proveedores y accionistas. Esto requiere habilidades para construir y mantener relaciones efectivas, manejar conflictos y negociar acuerdos.
+d. Stakeholders Management: Los líderes en línea deben ser capaces de gestionar múltiples stakeholders, incluyendo a sus empleados, clientes, proveedores y accionistas. Esto requiere habilidades para construir y mantener relaciones efectivas, manejar conflictos y negociar acuerdos.
 
-Values & Culture: Los líderes en línea deben ser capaces de establecer y mantener una cultura empresarial positiva y cohesiva. Esto incluye asegurarse de que los valores y objetivos de la empresa sean claros y compartidos por todos los miembros del equipo. Los líderes deben ser capaces de crear un ambiente de trabajo colaborativo y motivador que fomente la creatividad, la innovación y el trabajo en equipo.
+e. Values & Culture: Los líderes en línea deben ser capaces de establecer y mantener una cultura empresarial positiva y cohesiva. Esto incluye asegurarse de que los valores y objetivos de la empresa sean claros y compartidos por todos los miembros del equipo. Los líderes deben ser capaces de crear un ambiente de trabajo colaborativo y motivador que fomente la creatividad, la innovación y el trabajo en equipo.
 
 Finalmente, los líderes en línea deben poseer una combinación de habilidades empresariales, de comunicación, presentación, gestión de stakeholders y culturales para liderar con éxito en un entorno virtual. El éxito en el liderazgo en línea requiere una capacidad constante para adaptarse y aprender de las nuevas tendencias y herramientas digitales.
 
