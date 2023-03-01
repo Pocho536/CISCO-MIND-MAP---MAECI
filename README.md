@@ -203,7 +203,7 @@ Presentation Skills: Los líderes en línea deben ser capaces de presentar sus i
 
 Stakeholders Management: Los líderes en línea deben ser capaces de gestionar múltiples stakeholders, incluyendo a sus empleados, clientes, proveedores y accionistas. Esto requiere habilidades para construir y mantener relaciones efectivas, manejar conflictos y negociar acuerdos.
 
-Values & Culture: Los líderes en línea deben ser capaces de establecer y mantener una cultura empresarial positiva y cohesiva. Esto incluye asegurarse de que los valores y objetivos de la empresa sean claros y compartidos por todos los miembros del equipo. Los líderes deben ser capaces de crear un ambiente de trabajo colaborativo y motivador que fomente la creatividad, la innovación y el trabajo en equipo.
+Values & Culture: Los líderes en línea deben ser capaces de establecer y mantener una cultura empresarial positiva y cohesiva. Esto incluye asegurarse de que los valores y objetivos de la empresa sean claros y compartidos por todos los miembros del equipo. Los líderes deben ser capaces de crear un ambiente de trabajo colaborativo y motivador que fomente la creatividad, la innovación y. el trabajo en equipo.
 
 Finalmente, los líderes en línea deben poseer una combinación de habilidades empresariales, de comunicación, presentación, gestión de stakeholders y culturales para liderar con éxito en un entorno virtual. El éxito en el liderazgo en línea requiere una capacidad constante para adaptarse y aprender de las nuevas tendencias y herramientas digitales.
 
