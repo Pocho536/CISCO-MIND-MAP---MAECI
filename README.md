@@ -158,7 +158,7 @@ Los valores, por su parte, son principios o criterios que una persona o sociedad
 
 ![1576300142785](https://user-images.githubusercontent.com/125513213/221978156-0d994957-1b74-4b43-a7fa-6b513d6dfea5.jpg)
 
-Los valores y la cultura están estrechamente relacionados, ya que los valores son parte fundamental de la cultura de una sociedad. La cultura influye en la forma en que las personas perciben el mundo, se relacionan con los demás y toman decisiones. Los valores son una parte importante de esta cultura, ya que son los principios que guían las decisiones y comportamientos de las personas.
+Los valores y la cultura están estrechamente relacionados, ya que los valores son parte fundamental de la cultura de una sociedad. La cultura influye en la forma en que las personas perciben el mundo, se relacionan con los demás y toman decisiones. Los valores forman parte importante de esta cultura, ya que son los principios que guían las decisiones y comportamientos de las personas.
 
 5.2 Valores y Cultura en el Ciberespacio:
 
