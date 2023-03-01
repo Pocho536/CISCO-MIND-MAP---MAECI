@@ -114,7 +114,7 @@ b. Lenguaje Corporal y Movimiento
 
 c. Entrega Verbal
 
-En el mismo sentido resulta absolutamente importante analizar la audiencia;
+De acuerdo a lo anterior, resulta absolutamente importante analizar la audiencia;
 
 1. Valores… ¿Qué es importante para ellos?
 2. Necesidades… ¿Qué información quieren?
