@@ -142,11 +142,11 @@ Algunas referencias útiles para obtener más información sobre la gestión de 
 
 4.2 Referencias: 
 
-"Stakeholder Management in Cybersecurity: An Overview" (Gestión de interesados en ciberseguridad: una visión general) de la Universidad de Columbia: https://www8.gsb.columbia.edu/articles/ideas-work/stakeholder-management-cybersecurity-overview
+*"Stakeholder Management in Cybersecurity: An Overview" (Gestión de interesados en ciberseguridad: una visión general) de la Universidad de Columbia: https://www8.gsb.columbia.edu/articles/ideas-work/stakeholder-management-cybersecurity-overview
 
-"Effective Stakeholder Management in the Cyber Domain" (Gestión efectiva de interesados en el dominio cibernético) del Centro de Seguridad Cibernética y Resiliencia de la Universidad de Oxford: https://www.cs.ox.ac.uk/files/12236/Effective_Stakeholder_Management_in_the_Cyber_Domain.pdf
+*"Effective Stakeholder Management in the Cyber Domain" (Gestión efectiva de interesados en el dominio cibernético) del Centro de Seguridad Cibernética y Resiliencia de la Universidad de Oxford: https://www.cs.ox.ac.uk/files/12236/Effective_Stakeholder_Management_in_the_Cyber_Domain.pdf
 
-"Stakeholder Management in the Digital Era" (Gestión de interesados en la era digital) de la Universidad de Harvard: https://www.hbs.edu/faculty/Publication%20Files/16-126_4b4c4d4d-4c7b-4f14-a3f9-78fdaf9f7b33.pdf
+*"Stakeholder Management in the Digital Era" (Gestión de interesados en la era digital) de la Universidad de Harvard: https://www.hbs.edu/faculty/Publication%20Files/16-126_4b4c4d4d-4c7b-4f14-a3f9-78fdaf9f7b33.pdf
 
 ![image](https://user-images.githubusercontent.com/125513213/221976318-4d78fbd2-04d5-4467-a877-350be3bd62fd.png)
 
